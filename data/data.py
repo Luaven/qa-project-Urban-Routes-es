@@ -1,0 +1,6 @@
+urban_routes_url = 'https://cnt-5acb94c4-0f27-4d5e-84a7-ac79c1d50a14.containerhub.tripleten-services.com/?lng=es'
+address_from = 'East 2nd Street, 601'
+address_to = '1300 1st St'
+phone_number = '+1 123 123 12 12'
+card_number, card_code = '1234 5678 9100', '111'
+message_for_driver = 'Muéstrame el camino'
